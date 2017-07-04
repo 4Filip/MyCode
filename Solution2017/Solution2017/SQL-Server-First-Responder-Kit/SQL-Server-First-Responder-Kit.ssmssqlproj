@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL-Server-First-Responder-Kit">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="10.149.13.34:filip">
+          <Created>2017-06-27T16:41:50.8556141+02:00</Created>
+          <Type>SQL</Type>
+          <Server>10.149.13.34</Server>
+          <UserName>filip</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="10.149.13.34:Filip">
+          <Created>2017-06-28T13:14:25.7160628+02:00</Created>
+          <Type>SQL</Type>
+          <Server>10.149.13.34</Server>
+          <UserName>Filip</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="_TestBed.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.149.13.34:False:filip</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.149.13.34</AssociatedConnSrvName>
+          <AssociatedConnUserName>filip</AssociatedConnUserName>
+          <FullPath>_TestBed.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_Blitz.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.149.13.34:False:filip</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.149.13.34</AssociatedConnSrvName>
+          <AssociatedConnUserName>filip</AssociatedConnUserName>
+          <FullPath>sp_Blitz.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzBackups.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzBackups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzCache.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.149.13.34:False:filip</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.149.13.34</AssociatedConnSrvName>
+          <AssociatedConnUserName>filip</AssociatedConnUserName>
+          <FullPath>sp_BlitzCache.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzFirst.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.149.13.34:False:Filip</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.149.13.34</AssociatedConnSrvName>
+          <AssociatedConnUserName>Filip</AssociatedConnUserName>
+          <FullPath>sp_BlitzFirst.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzIndex.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.149.13.34:False:Filip</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.149.13.34</AssociatedConnSrvName>
+          <AssociatedConnUserName>Filip</AssociatedConnUserName>
+          <FullPath>sp_BlitzIndex.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzQueryStore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzQueryStore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzRS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzRS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzTrace.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzTrace.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzWho.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.149.13.34:False:Filip</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.149.13.34</AssociatedConnSrvName>
+          <AssociatedConnUserName>Filip</AssociatedConnUserName>
+          <FullPath>sp_BlitzWho.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_DatabaseRestore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_DatabaseRestore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_foreachdb.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.149.13.34:False:filip</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.149.13.34</AssociatedConnSrvName>
+          <AssociatedConnUserName>filip</AssociatedConnUserName>
+          <FullPath>sp_foreachdb.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Test sp_DatabaseRestore.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.149.13.34:False:Filip</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.149.13.34</AssociatedConnSrvName>
+          <AssociatedConnUserName>Filip</AssociatedConnUserName>
+          <FullPath>Test sp_DatabaseRestore.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="CONTRIBUTING.md">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CONTRIBUTING.md</FullPath>
+        </FileNode>
+        <FileNode Name="LICENSE.md">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>LICENSE.md</FullPath>
+        </FileNode>
+        <FileNode Name="README.md">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>README.md</FullPath>
+        </FileNode>
+        <FileNode Name="ReleaseProcess.md">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>ReleaseProcess.md</FullPath>
+        </FileNode>
+        <FileNode Name="sp_Blitz Checks by Priority.md">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_Blitz Checks by Priority.md</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzFirst Checks by Priority.md">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzFirst Checks by Priority.md</FullPath>
+        </FileNode>
+        <FileNode Name="sp_blitzfirst.png">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>sp_blitzfirst.png</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

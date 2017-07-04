@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL-Server-First-Responder-Kit", "SQL-Server-First-Responder-Kit\SQL-Server-First-Responder-Kit.ssmssqlproj", "{402B3FEC-AC49-4C44-A962-10AC15958542}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Glenn Berry 911", "Glenn Berry 911\Glenn Berry 911.ssmssqlproj", "{37D0D9A1-A8A2-468A-86CD-D258A983D504}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Ola Hallegren", "Ola Hallegren\Ola Hallegren.ssmssqlproj", "{C4524881-C34D-482A-8805-824FE36A970B}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "!Run", "!Run\!Run.ssmssqlproj", "{C95DE263-4129-4BE8-BC85-42D6C0CB892B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{402B3FEC-AC49-4C44-A962-10AC15958542}.Default|Default.ActiveCfg = Default
+		{B62615B2-FEE4-4D7F-AB95-729F2DC75CA5}.Default|Default.ActiveCfg = Default
+		{37D0D9A1-A8A2-468A-86CD-D258A983D504}.Default|Default.ActiveCfg = Default
+		{C4524881-C34D-482A-8805-824FE36A970B}.Default|Default.ActiveCfg = Default
+		{C95DE263-4129-4BE8-BC85-42D6C0CB892B}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
